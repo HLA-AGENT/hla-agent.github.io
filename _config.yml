@@ -1,0 +1,13 @@
+title: HLA_AGENT
+description: Large Scale Distributed Simulation of MAS via HLA
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-architect
+github:
+  is_project_page: true
+  repository_name: HLA-AGENT
+  repository_url: https://github.com/HLA-AGENT/HLA-AGENT
+  zip_url: https://github.com/HLA-AGENT/HLA-AGENT/zipball/master
+  tar_url: https://github.com/HLA-AGENT/HLA-AGENT/tarball/master
+  owner_url: https://github.com/theogeorgios
+  owner_name: Georgios Theodoropoulos
