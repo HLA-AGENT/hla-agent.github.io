@@ -14,7 +14,7 @@ of multiple instances of the sequential MAS (Multi-Agent Systems) simulation too
 
 
 
- **HLA_Agent**, together with [HLA_RePast](https://hla-repast.github.io/) have been **the very first efforts to distribute MAS simulation executives with the HLA**, thus pioneering this topic.
+ **HLA_Agent**, together with [HLA_RePast](https://hla-repast.github.io/) have been **the very first efforts to distribute MAS simulation executives with the HLA**, thus **pioneering** this field.
 
 
 
